@@ -38,7 +38,7 @@
 | TX2                  | rk3229               | —                                                                                               | —                                                                                                |
  TX6                  | H6              | [Imagem](https://drive.google.com/file/d/1w7FkO0A7dyR63BrADmjIf4VsxEiIhxFy/view?usp=sharing)     | [Tutorial](https://drive.google.com/file/d/1qA_Xhq-ZoQ708FYmwxEAEbrQT3KnOZrQ/view?usp=sharing)   |
 | TX9 – AmLogic        | s905x           | [Imagem](https://drive.google.com/file/d/11X8H8wldUmMXGuy3m6fJqRubOtcnaDth/view?usp=sharing)     | [Tutorial](https://drive.google.com/file/d/1A06Kbxwiqx3DPu7FhD0W3SLniXGHX6Z1/view?usp=sharing)   |
-| TX9 5G – Rockchip    | rk3328          | [Imagem](https://drive.google.com/file/d/1p61_lQx_4PsDXimd_w-n4Gu0UUDneSbz/view?usp=sharing)     | [Tutorial](https://drive.google.com/file/d/1-6nCcgMvKf8_h8y3wZU8KTRXXdWTxoth/view?usp=sharing)   |
+| TX9 5G – Rockchip    | rk3228          | [Imagem](https://drive.google.com/file/d/1p61_lQx_4PsDXimd_w-n4Gu0UUDneSbz/view?usp=sharing)     | [Tutorial](https://drive.google.com/file/d/1-6nCcgMvKf8_h8y3wZU8KTRXXdWTxoth/view?usp=sharing)   |
 
 
 
